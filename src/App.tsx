@@ -24,7 +24,7 @@ export default function App() {
 
   const connectWallet = async () => {
     if (!window.ethereum) {
-      setConnectionError('Core Wallet not detected. Please install Core Wallet extension.');
+      setConnectionError('Core Wallet not detected Error!. Please install Core Wallet extension.');
       return;
     }
 
