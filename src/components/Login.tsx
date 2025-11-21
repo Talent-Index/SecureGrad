@@ -11,7 +11,7 @@ export function Login() {
         <div className="text-center mb-8">
           <div className="flex items-center justify-center gap-3 mb-4">
             <Shield className="w-12 h-12 text-blue-600" />
-            <h1 className="text-4xl text-gray-900">Campus Certificate</h1>
+            <h1 className="text-4xl text-gray-900">Campus Certificate Issaunce</h1>
           </div>
           <p className="text-gray-600">Blockchain-powered certificate verification</p>
         </div>
