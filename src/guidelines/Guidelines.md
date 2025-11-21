@@ -40,7 +40,7 @@ For example:
 ## Button
 The Button component is a fundamental interactive element in our design system, designed to trigger actions or navigate
 users through the application. It provides visual feedback and clear affordances to enhance user experience.
-
+###FOLLOW CONTIBUTING GUIDELINES
 ### Usage
 Buttons should be used for important actions that users need to take, such as form submissions, confirming choices,
 or initiating processes. They communicate interactivity and should have clear, action-oriented labels.
