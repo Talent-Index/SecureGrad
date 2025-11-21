@@ -166,7 +166,7 @@ export const CONTRACT_ABI = [
  *     }
  * }
  * 
- * DEPLOYMENT INSTRUCTIONS:
+ * DEPLOYMENT INSTRUCTIONS FOR YOU:
  * 1. Deploy this contract to Avalanche C-Chain using Remix, Hardhat, or Truffle
  * 2. Replace CONTRACT_ADDRESS above with your deployed contract address
  * 3. Configure Core Wallet to connect to Avalanche C-Chain (https://api.avax.network/ext/bc/C/rpc)
