@@ -33,9 +33,17 @@ export function Login() {
               <div className="flex items-start gap-3">
                 <CheckCircle2 className="w-5 h-5 text-green-600 flex-shrink-0 mt-0.5" />
                 <div>
-                  <p className="text-gray-900">Verify Certificates</p>
-                  <p className="text-sm text-gray-600">Access certificate verification instantly</p>
-                </div>
+  <p className="text-gray-900">Verify Certificates</p>
+  <p className="text-sm text-gray-600">
+    Access certificate verification instantly
+  </p>
+  <p className="text-xs text-gray-500 mt-1">
+    Our blockchain-powered system ensures that every certificate is authentic,
+    tamper-proof, and verifiable in real time. Students, employers, and institutions
+    can instantly confirm legitimacy with a single click.
+  </p>
+</div>
+
               </div>
               <div className="flex items-start gap-3">
                 <CheckCircle2 className="w-5 h-5 text-green-600 flex-shrink-0 mt-0.5" />
