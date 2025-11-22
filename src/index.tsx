@@ -4,7 +4,7 @@ import App from './App';
 import { AuthProvider } from './contexts/AuthContext';
 import { Toaster } from 'sonner@2.0.3';
 import './styles/globals.css';
-
+//cretation of root
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
     <AuthProvider>
