@@ -3,7 +3,7 @@ import { useAuth } from '../contexts/AuthContext';
 import { FileText, Search, Filter, Copy, CheckCircle2 } from 'lucide-react';
 import { toast } from 'sonner@2.0.3';
 
-// Mock data for certificate history (replace with blockchain event data in production)
+// Mock data for certificate history (replace with blockchain event data in productions)
 const mockCertificates = [
   {
     id: '1',
