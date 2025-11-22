@@ -1,4 +1,4 @@
-# 🎓 Campus Certificate Verification System
+#  Campus Certificate Verification System
 
 A decentralized certificate issuance and verification system built on **Avalanche C-Chain** using **Core Wallet**. This application enables educational institutions to issue tamper-proof digital certificates on the blockchain and allows anyone to verify their authenticity.
 
