@@ -18,7 +18,7 @@ const mockCertificates = [
     id: '2',
     studentName: 'Jane Smith',
     regNumber: 'MUT-2025-002',
-    course: 'Business Administration',
+    course: 'Business and Administration',
     completionDate: '2025-06-20',
     issuer: '0x742d35Cc6634C0532925a3b844Bc9e7595f0bEb1',
     timestamp: '2025-11-20 11:45:00'
