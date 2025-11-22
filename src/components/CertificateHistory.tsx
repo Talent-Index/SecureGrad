@@ -7,7 +7,7 @@ import { toast } from 'sonner@2.0.3';
 const mockCertificates = [
   {
     id: '1',
-    studentName: 'John Doe',
+    studentName: 'Collo Max',
     regNumber: 'MUT-2025-001',
     course: 'Computer Science',
     completionDate: '2025-05-15',
